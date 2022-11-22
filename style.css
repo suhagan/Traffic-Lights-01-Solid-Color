@@ -1,0 +1,28 @@
+
+.box-one{
+    background-color:red;
+    padding: 10px;
+    height: 80px;
+    width: 80px;
+    border: 20px solid #800000;
+    outline: white solid 10px;;
+    margin: 100px 100px 10px 700px
+}
+.box-two{
+    background-color:yellow;
+    padding: 10px;
+    height: 80px;
+    width: 80px;
+    border: 20px solid rgb(218, 165, 32);
+    outline: white solid 10px;
+    margin: 10px 100px 10px 700px
+}
+.box-three{
+    background-color:rgb(51, 130, 51);
+    padding: 10px;
+    height: 80px;
+    width: 80px;
+    border: 20px solid rgb(44, 96, 44);
+    outline: white solid 10px;
+    margin: 10px 100px 10px 700px
+}
